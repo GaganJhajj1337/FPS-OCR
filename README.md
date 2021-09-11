@@ -7,5 +7,5 @@ Implemented a Python program to cut a video into segmentations and then cropped 
 
 Using Python-tesseract the text values of each cropped image were exported showing FPS in past stream VODs.
 
-Data was written up and final results can be found under Final Results
+Data was written up and final results can be found under FPS Analysis
 
